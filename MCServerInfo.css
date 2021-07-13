@@ -1,0 +1,32 @@
+.MCServerInfo {
+	margin-left:20px;
+	background:#fff;
+	box-shadow:0 1px 3px rgba(26,26,26,.1);
+	margin-bottom:30px;
+	border-radius:4px;
+}
+.MWordStar {
+	overflow:hidden;
+	padding:0 18px 18px;
+	font-size: 20px;
+	font-weight:400;
+}
+.default {
+	overflow:hidden;
+	font-size: 20px;
+	font-weight:500;
+}
+.infoName {
+	display: block;
+	float: left; 
+	line-height:40px;
+}
+.serverInfo {
+	display: block;
+	float: right; 
+	line-height:40px;
+}
+.false {
+	text-align: center;
+	line-height:40px;
+}
