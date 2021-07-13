@@ -1,7 +1,8 @@
 # Typecho_MCServerInfo
 ## A plugin for Typecho blog to show your Minecraft server information!
 
-### Requires MCSManager API.
+### Your server should use MCSManager in order to support this plugin.
+(I will try to make another version uses rcon. Hopefully...)
 
 For default theme you add:
 
